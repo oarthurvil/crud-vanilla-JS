@@ -44,7 +44,7 @@ Modal: <br/>
 
 ### Links
 
-- Solution URL: [CRUD](https://oarthurvil.github.io/CRUD-vanilla-JS/)
+- Solution URL: [CRUD](https://oarthurvil.github.io/crud-vanilla-JS/)
 
 ## My process
 
